@@ -1,2 +1,2 @@
 # Backend
-Backend code (FastAPI) for CouchFest frontend
+Backend code (FastAPI) for Capstone project
