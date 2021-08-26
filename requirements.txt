@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+dnspython
+motor
+bcrypt
+pyjwt
+python-multipart
